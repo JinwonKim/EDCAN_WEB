@@ -2,6 +2,10 @@
 @import url(./animate.css);
 @import url(http://cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css);
 
+/*
+    Published by @kentakang
+                            */
+
 body {
     font-family: 'Nanum Barun Gothic';
     background: url('../images/background.png');
