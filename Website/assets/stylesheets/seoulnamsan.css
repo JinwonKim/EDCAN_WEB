@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Seoul Namsan";
+    weight: 20;
+    src: url(../fonts/SeoulNamsanL.eot);
+    src: local("서울남산체 L"), url(../fonts/SeoulNamsanL.woff) format("woff");
+}
+
+@font-face {
+    font-family: "Seoul Namsan";
+    weight: 400;
+    src: url(../fonts/SeoulNamsanM.eot);
+    src: local("서울남산체 M"), url(../fonts/SeoulNamsanM.woff) format("woff");
+}
+
+@font-face {
+    font-family: "Seoul Namsan";
+    weight: 700;
+    src: url(../fonts/SeoulNamsanB.eot);
+    src: local("서울남산체 B"), url(../fonts/SeoulNamsanB.woff) format("woff");
+}
